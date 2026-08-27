@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ake-web-solution">
-    <img src="https://github.com/ake-web-solution.png" width="120" height="120" alt="Amankwah Kwesi Emmanuel" style="border-radius: 50%;" />
-  </a>
+
   <br/><br/>
   <a href="https://linkedin.com/in/emmanuel-kwesi-amankwah-09a070169">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
