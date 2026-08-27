@@ -86,14 +86,22 @@
 
 ---
 
-### 📈 Development Activity & Contribution Graph
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ake-web-solution&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070D18&title_color=38BDF8&icon_color=0D6EFD&text_color=94A3B8" height="155" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ake-web-solution&layout=compact&theme=tokyonight&hide_border=true&bg_color=070D18&title_color=38BDF8&text_color=94A3B8" height="155" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ake-web-solution&bg_color=070D18&color=38BDF8&line=0D6EFD&point=10B981&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & Developed by <b>Amankwah Kwesi Emmanuel</b> • Lead Full-Stack Engineer at AKE Web Solutions</sub>
+  <sub>Designed & Developed by <b>Amankwah Kwesi Emmanuel</b> • Lead Engineer at AKE Web Solutions</sub>
 </div>
+---
+
+
